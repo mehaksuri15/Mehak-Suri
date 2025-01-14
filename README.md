@@ -7,8 +7,8 @@
 
 ## 🛠️ *Tools & Technologies I Work With*  
 
-- *Operating Systems: 💻 **Linux*  
-- *Programming Languages: ⚛️ **C* | 🐍 *Python* | ☕ *Java*  
+
+- *Programming Languages: ⚛️ *C/C++* | 🐍 *Python* | ☕ *Java* 
 - *Web Development: 🌐 **HTML | CSS | JavaScript | React*  
 - *Databases: 🗄️ **MySQL*  
 
